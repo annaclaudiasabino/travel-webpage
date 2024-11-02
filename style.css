@@ -120,3 +120,24 @@ ul li {
 .color-orange {
   color: var(--accent-orange);
 }
+
+footer {
+  margin-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer > p {
+  margin-top: 3.5rem;
+  display: inline-flex;
+}
+
+footer p span {
+  display: inline-flex;
+  padding: 0 4px;
+}
