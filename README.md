@@ -13,5 +13,5 @@
 </ul>
 
 <h2>🎨 Design</h2>
-<p>O design do site foi cuidadosamente elaborado para uma navegação agradável e intuitiva. Agradecimentos especiais à Rocketseat, que criou esse lindo.</p>
+<p>O design do site foi cuidadosamente elaborado para uma navegação agradável e intuitiva. Agradecimentos especiais à Rocketseat, que criou esse lindo layout.</p>
 
